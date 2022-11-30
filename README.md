@@ -12,7 +12,8 @@ permalink: "/projectportfolio/"
 * Visualized **natural language processing** from Airbnb listing titles using the **nltk** library
 * Organized analysis with written report as a **Jupyter Notebook** or HTML file
 
-![](https://github.com/imadahmad97/imadahmad/blob/master/images/capetown_covid.png)
+![](images/capetown_covid.png)
+![](images/heatmap.png)
 
 # [Airbnb Statistical Analysis](https://github.com/imadahmad97/Statistical-Analysis-of-Airbnb-Data)
 
@@ -21,6 +22,9 @@ permalink: "/projectportfolio/"
 * Visualized data in R using the **ggplot library**
 * Utilized multiple statistical distributions, such as the normal distribution, t-distribution, Poisson distribution, etc.
 * Organized analysis with written report as a PDF
+
+![](images/doublebar.png)
+![](images/boxplots.png)
 
 # [Gender Disparity Amongst Physiology Departments](https://www.cureus.com/articles/46484-sex-disparity-among-faculty-of-physiology-in-north-american-academia-differences-in-scholarly-productivity-and-academic-rank)
 
