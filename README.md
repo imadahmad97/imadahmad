@@ -12,6 +12,8 @@ permalink: "/projectportfolio/"
 * Visualized **natural language processing** from Airbnb listing titles using the **nltk** library
 * Organized analysis with written report as a **Jupyter Notebook** or HTML file
 
+![](https://github.com/imadahmad97/imadahmad/blob/master/images/capetown_covid.png)
+
 # [Airbnb Statistical Analysis](https://github.com/imadahmad97/Statistical-Analysis-of-Airbnb-Data)
 
 * Performed statistical analysis using **R** on two datasets containing information on Airbnb listings and their reviews
