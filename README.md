@@ -1,6 +1,6 @@
 ---
 title: "Project Portfolio"
-permalink: "/portfolio/"
+permalink: "/projectportfolio/"
 ---
 
 # [Airbnb Exploratory Data Analysis](https://github.com/imadahmad97/EDA-of-Airbnb-Data)
