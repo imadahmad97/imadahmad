@@ -1,5 +1,6 @@
 ---
 title: "Project Portfolio"
+layout: page
 ---
 
 # [Airbnb Exploratory Data Analysis](https://github.com/imadahmad97/EDA-of-Airbnb-Data)
