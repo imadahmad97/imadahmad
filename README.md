@@ -3,7 +3,7 @@ title: "Project Portfolio"
 permalink: "/projectportfolio/"
 ---
 
-# [Airbnb Exploratory Data Analysis](analysis.html)
+# [Airbnb Exploratory Data Analysis](analysis1.html)
 
 * Performed exploratory data analysis on two datasets containing information on Airbnb listings and their reviews 
 * Cleaned and wrangling the data using **python** in conjunction with various libraries such as **Numpy and Pandas**. 
