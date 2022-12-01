@@ -3,7 +3,7 @@ title: "Project Portfolio"
 permalink: "/projectportfolio/"
 ---
 
-# [Airbnb Exploratory Data Analysis](https://github.com/imadahmad97/EDA-of-Airbnb-Data)
+# [Airbnb Exploratory Data Analysis](analysis.html)
 
 * Performed exploratory data analysis on two datasets containing information on Airbnb listings and their reviews 
 * Cleaned and wrangling the data using **python** in conjunction with various libraries such as **Numpy and Pandas**. 
