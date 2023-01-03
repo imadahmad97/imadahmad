@@ -2,6 +2,12 @@
 title: "Project Portfolio"
 permalink: "/projectportfolio/"
 ---
+# [CSVanalysis.com](csvanalysis.com)
+
+* Built and deployed a website to a custom domain (csvanalysis.com) where users can upload a csv file and receive a preliminary analysis of the file
+* Utilized the Pandas library in Python perform the analysis, and the Flask library to handle user input and integrate with the site 
+* Website frontend completed in HTML/CSS
+* All uploaded files are stored in a SQL database using MariaDB.
 
 # [Airbnb Exploratory Data Analysis](analysis1.html)
 
