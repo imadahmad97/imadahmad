@@ -21,8 +21,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://imadahmad97.github.io/imadahmad/resume.pdf", title: "Resume"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:imadahmad97@yahoo.ca"}
-  - {title: Github, icon: github, url: "https://github.com/imadahmad97"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
