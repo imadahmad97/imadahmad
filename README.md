@@ -2,6 +2,12 @@
 title: "Project Portfolio"
 permalink: "/projectportfolio/"
 ---
+# [Chessalytics](https://medium.com/@imadahmad97/chessalytics-analyzing-my-chess-games-to-better-understand-my-play-style-d08c75d7fc9b)
+
+* Performed an analysis of my chess.com data containing over 4000 games
+* Utilized network analysis to get a better understanding of my opening moves
+* Visuals completed in plotly express in python and tableau
+
 # [CSVanalysis.com](csvanalysis.com)
 
 * Built and deployed a website to a custom domain (csvanalysis.com) where users can upload a csv file and receive a preliminary analysis of the file
