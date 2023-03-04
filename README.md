@@ -8,6 +8,8 @@ permalink: "/projectportfolio/"
 * Utilized network analysis to get a better understanding of my opening moves
 * Visuals completed in plotly express in python and tableau
 
+![](images/chess_network_graph.png)
+
 # [CSVanalysis.com](csvanalysis.com)
 
 * Built and deployed a website to a custom domain (csvanalysis.com) where users can upload a csv file and receive a preliminary analysis of the file
