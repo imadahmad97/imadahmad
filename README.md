@@ -2,13 +2,17 @@
 title: "Project Portfolio"
 permalink: "/projectportfolio/"
 ---
+# [Recycling Image Classifier](https://gargabe-classifier-jxq632gueq-uc.a.run.app/)
+
+* Utilized a convolutional neural network with TensorFlow to create an image classification model 
+* Model classifies images of garbage into either recycling, compost, or trash
+* Connected model to raspberry pi to make physical interface for users to dispose of trash (check out the video on our site!)
+
 # [Chessalytics](https://medium.com/@imadahmad97/chessalytics-analyzing-my-chess-games-to-better-understand-my-play-style-d08c75d7fc9b)
 
 * Performed an analysis of my chess.com data containing over 4000 games
 * Utilized network analysis to get a better understanding of my opening moves
 * Visuals completed in plotly express in python and tableau
-
-![](images/chess_network_graph.png)
 
 # [CSVanalysis.com](csvanalysis.com)
 
@@ -26,9 +30,6 @@ permalink: "/projectportfolio/"
 * Visualized **natural language processing** from Airbnb listing titles using the **nltk** library
 * Organized analysis with written report as a **Jupyter Notebook** or HTML file
 
-![](images/capetown_covid.png)
-![](images/heatmap.png)
-
 # [Airbnb Statistical Analysis](https://github.com/imadahmad97/Statistical-Analysis-of-Airbnb-Data)
 
 * Performed statistical analysis using **R** on two datasets containing information on Airbnb listings and their reviews
@@ -36,9 +37,6 @@ permalink: "/projectportfolio/"
 * Visualized data in R using the **ggplot library**
 * Utilized multiple statistical distributions, such as the normal distribution, t-distribution, Poisson distribution, etc.
 * Organized analysis with written report as a PDF
-
-![](images/doublebar.png)
-![](images/boxplots.png)
 
 # [Gender Disparity Amongst Physiology Departments](https://www.cureus.com/articles/46484-sex-disparity-among-faculty-of-physiology-in-north-american-academia-differences-in-scholarly-productivity-and-academic-rank)
 
