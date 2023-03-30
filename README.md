@@ -2,11 +2,11 @@
 title: "Project Portfolio"
 permalink: "/projectportfolio/"
 ---
-# [Recycling Image Classifier](https://gargabe-classifier-jxq632gueq-uc.a.run.app/)
+# [Recycling Image Classifier](https://github.com/imadahmad97/garbage-image-classifier)
 
-* Utilized a convolutional neural network with TensorFlow to create an image classification model 
-* Model classifies images of garbage into either recycling, compost, or trash
-* Connected model to raspberry pi to make physical interface for users to dispose of trash (check out the video on our site!)
+* Utilized a convolutional neural network with TensorFlow to create an image classification model to classify waste
+* Connected model to raspberry pi to make physical interface for users to dispose of trash
+* Video of robot in action coming Mar. 30!
 
 # [Chessalytics](https://medium.com/@imadahmad97/chessalytics-analyzing-my-chess-games-to-better-understand-my-play-style-d08c75d7fc9b)
 
