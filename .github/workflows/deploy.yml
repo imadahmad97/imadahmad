@@ -2,7 +2,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - main # Replace "main" with "master" if your default branch is named "master" instead of "main"
+      - master # Replace "main" with "master" if your default branch is named "master" instead of "main"
 
 jobs:
   build-and-deploy:
