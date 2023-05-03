@@ -1,4 +1,4 @@
-baseURL = "https://imadahmad97.github.io/"
+baseURL = "https://imadahmad.ca/"
 publishDir = "public"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
