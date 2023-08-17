@@ -1,1 +1,4 @@
-/* You can customize theme styles here */
+/*Put your custom CSS here*/
+.lowered-image {
+    margin-top: 20px; /* Adjust this value to fit your need */
+}
